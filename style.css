@@ -1,0 +1,11 @@
+body {
+  font: 12px Verdana, sans-serif;
+}
+#cursor-pos-x, #cursor-pos-y {
+  display: inline-block;
+  width: 1.2em;
+  text-align: right;
+}
+.hidden {
+  visibility: hidden;
+}
